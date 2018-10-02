@@ -1,4 +1,23 @@
+
 html {
-  background: #f2f1f4;
-  color: #19171c;
+  background:#EDE8E8;
+  color: #fff;
+}
+
+
+.column {
+  float: left;
+  float:right;
+  width: 28.33%;
+  padding: 20px;
+  margin-top: 5em;
+  margin-left: 1em
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    min-width: 300px;
+    height: auto;
+    padding-left: 50px;
 }
